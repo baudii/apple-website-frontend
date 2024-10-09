@@ -10,6 +10,7 @@
 }
 body {
     font-family: 'appleFont';
+    background-color: #EEEEEE;
 }
 nav {
 	margin: auto;
@@ -200,7 +201,7 @@ header {
 }
 #footer-div {
     position: absolute;
-    top: 946px;
+    bottom: 0;
     right: 0;
     left: 0;
     background-color: #EEEEEE;
